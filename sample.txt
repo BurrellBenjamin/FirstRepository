@@ -1,1 +1,2 @@
 This is the sample text that I'm including for the assignment known as teach 04.
+This is the additional text from part 2 of teach 04.
